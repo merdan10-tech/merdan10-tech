@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Java Projects:</h2>
 
-  - [Java Password Manager](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Java Password Manager]([https://github.com/joshmadakor1/Algorithms-Practice](https://github.com/merdan10-tech/PasswordManager_Project/edit/main/README.md))
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
