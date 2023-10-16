@@ -10,6 +10,7 @@
 
 <h2>🧑🏻‍💻 C++ Projects:</h2>
 
+  - [PetSoundDemo](https://github.com/merdan10-tech/PetSoundDemo_Project)
   - [InteractiveMathTool](https://github.com/merdan10-tech/IteractiveMathTool_Project/blob/main/README.md)
   - [WordFileMetricsCalculator](https://github.com/merdan10-tech/WordFileMetricsCalculator_Project)
   - [Metric Array Analyzer](https://github.com/merdan10-tech/MetricArrayAnalyzer_Project/blob/main/README.md)
