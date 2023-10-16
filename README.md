@@ -8,13 +8,13 @@
   - [Heat Index Calculator](https://github.com/merdan10-tech/HeatIndexCalculator_Project)
   - [Inches To Feet Converter](https://github.com/merdan10-tech/InchesToFeetConverter_Project)
 
-<h2> C++ Projects:</h2>
+<h2>🧑🏻‍💻 C++ Projects:</h2>
 
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
   - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
   - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
 
-<h2> C++ Projects:</h2>
+<h2>💻 Python Projects:</h2>
 
 
 
