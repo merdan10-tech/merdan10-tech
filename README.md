@@ -10,6 +10,7 @@
 
 <h2>🧑🏻‍💻 C++ Projects:</h2>
 
+  - [InteractiveMathTool](https://github.com/merdan10-tech/IteractiveMathTool_Project/blob/main/README.md)
   - [WordFileMetricsCalculator](https://github.com/merdan10-tech/WordFileMetricsCalculator_Project)
   - [Metric Array Analyzer](https://github.com/merdan10-tech/MetricArrayAnalyzer_Project/blob/main/README.md)
   - [Coin Value Calculator](https://github.com/merdan10-tech/CoinValueCalculator_Project/blob/main/README.md)
