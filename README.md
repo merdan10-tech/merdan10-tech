@@ -18,7 +18,7 @@
   - [Knight's Tavern Order System](https://github.com/merdan10-tech/Knight-sTavernOrderSystem_Project/blob/main/README.md)
 
 <h2>💻 Python Projects:</h2>
-  - (https://github.com/merdan10-tech/CSVDataProcessor_Project)
+  - [CSV Data Processor](https://github.com/merdan10-tech/CSVDataProcessor_Project/blob/main/README.md)
 
 
 
