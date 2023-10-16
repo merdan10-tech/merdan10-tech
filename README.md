@@ -20,7 +20,6 @@
 <h2>💻 Python Projects:</h2>
 
   - [Medieval Inn Food Calculator](https://github.com/merdan10-tech/MedievalInnFoodCalculator_Project/blob/main/README.md)
-  - 
 
 
 
