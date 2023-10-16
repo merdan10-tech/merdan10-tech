@@ -10,7 +10,7 @@
 
 <h2>🧑🏻‍💻 C++ Projects:</h2>
 
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
+  - [Metric Array Analyzer](https://github.com/merdan10-tech/MetricArrayAnalyzer_Project/blob/main/README.md)
   - [Coin Value Calculator](https://github.com/merdan10-tech/CoinValueCalculator_Project/blob/main/README.md)
   - [Knight's Tavern Order System](https://github.com/merdan10-tech/Knight-sTavernOrderSystem_Project/blob/main/README.md)
 
