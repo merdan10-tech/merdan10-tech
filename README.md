@@ -11,7 +11,7 @@
 <h2>🧑🏻‍💻 C++ Projects:</h2>
 
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
+  - [Coin Value Calculator](https://github.com/merdan10-tech/CoinValueCalculator_Project/blob/main/README.md)
   - [Knight's Tavern Order System](https://github.com/merdan10-tech/Knight-sTavernOrderSystem_Project/blob/main/README.md)
 
 <h2>💻 Python Projects:</h2>
