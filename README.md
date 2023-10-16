@@ -4,6 +4,7 @@
 
   - [Java Password Manager](https://github.com/merdan10-tech/PasswordManager_Project)
   - [Basic Apartment Filtering System](https://github.com/merdan10-tech/BasicApartmentFiltering_Project)
+  - [Java Wedding Planner](https://github.com/merdan10-tech/JavaWeddingPlanner_Project)
 
 - <b>C# (.NET Desktop Applications)</b>
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
