@@ -28,6 +28,7 @@
 
 <h2>📑 Certifications</h2>
 
+  - [Python for Everybody](https://i.imgur.com/k3I3D4x.png)
 
 
 <h2> 🤳 Connect with me:</h2>
