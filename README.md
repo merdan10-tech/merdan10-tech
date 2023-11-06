@@ -24,6 +24,8 @@
   - [CSV Data Processor](https://github.com/merdan10-tech/CSVDataProcessor_Project)
   - [Currency Exchanger](https://github.com/merdan10-tech/CurrencyExchanger_Project/blob/main/README.md)
 
+<h2>💻 Web Development Projects:</h2>
+  - [Advocacy Project](}
 
 
 <h2>📑 Certifications</h2>
