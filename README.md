@@ -25,7 +25,7 @@
   - [Currency Exchanger](https://github.com/merdan10-tech/CurrencyExchanger_Project/blob/main/README.md)
 
 <h2>💻 Web Development Projects:</h2>
-  - [Advocacy Project](}
+  - [Advocacy Project](https://github.com/merdan10-tech/AdvocacyProject/tree/main)
 
 
 <h2>📑 Certifications</h2>
