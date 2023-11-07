@@ -24,10 +24,8 @@
   - [CSV Data Processor](https://github.com/merdan10-tech/CSVDataProcessor_Project)
   - [Currency Exchanger](https://github.com/merdan10-tech/CurrencyExchanger_Project/blob/main/README.md)
 
-<h2>💻 Web Development Projects:</h2>
+<h2>🧑🏽‍💻 Web Development Projects:</h2>
   - [Advocacy Project](https://github.com/merdan10-tech/AdvocacyProject)
-  - [Metric Array Analyzer](https://github.com/merdan10-tech/MetricArrayAnalyzer_Project/blob/main/README.md)
-  - [Coin Value Calculator](https://github.com/merdan10-tech/CoinValueCalculator_Project/blob/main/README.md)
 
 <h2>📑 Certifications</h2>
 
