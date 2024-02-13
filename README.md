@@ -8,7 +8,7 @@
   - [Heat Index Calculator](https://github.com/merdan10-tech/HeatIndexCalculator_Project)
   - [Inches To Feet Converter](https://github.com/merdan10-tech/InchesToFeetConverter_Project)
   - [Java-Tutor Project](https://github.com/merdan10-tech/Java-Tutor-)
-  - [CSV/JSON Data Conversion Project]()
+  - [CSV/JSON Data Conversion Project](https://github.com/merdan10-tech/cs310-project1-sp24)
 
 <h2>🧑🏻‍💻 C++ Projects:</h2>
 
