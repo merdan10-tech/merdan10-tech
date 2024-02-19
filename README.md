@@ -9,6 +9,7 @@
   - [Inches To Feet Converter](https://github.com/merdan10-tech/InchesToFeetConverter_Project)
   - [Java-Tutor Project](https://github.com/merdan10-tech/Java-Tutor-)
   - [CSV/JSON Data Conversion Project](https://github.com/merdan10-tech/cs310-project1-sp24)
+  - [Course Registration Database](https://github.com/merdan10-tech/cs310-course-database-sp24)
 
 <h2>🧑🏻‍💻 C++ Projects:</h2>
 
