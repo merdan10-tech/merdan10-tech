@@ -33,6 +33,7 @@
 <h2>📑 Certifications</h2>
 
   - [Python for Everybody](https://i.imgur.com/k3I3D4x.png)
+  - [Intro To Web Development](https://imgur.com/a/0hz2jma.png)
 
 
 <h2> 🤳 Connect with me:</h2>
