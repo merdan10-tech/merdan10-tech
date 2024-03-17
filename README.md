@@ -34,6 +34,7 @@
 
   - [Python for Everybody](https://i.imgur.com/k3I3D4x.png)
   - [Intro To Web Development](https://imgur.com/a/0hz2jma.png)
+  - [Java Programming](https://imgur.com/WaewUij.png)
 
 
 <h2> 🤳 Connect with me:</h2>
