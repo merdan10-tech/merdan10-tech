@@ -2,6 +2,7 @@
 
 <h2>👨‍💼 Software Engineering Projects:</h2>
   - [CSV/JSON Data Conversion Project](https://github.com/merdan10-tech/cs310-project1-sp24)
+  
   - [Course Registration Database](https://github.com/merdan10-tech/cs310-course-database-sp24)
 
 
