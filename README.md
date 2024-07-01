@@ -2,7 +2,7 @@
 
 <h2>👨‍💼 Data Analytics Projects:</h2>
 
-  - [COVID-19 Data Analyzation and Processing Project](#)
+  - [COVID-19 Data Analyzation and Processing Project](https://github.com/merdan10-tech/covid-19_data-analization/tree/main)
   
 
 <h2>👨‍💼 Software Engineering Projects:</h2>
