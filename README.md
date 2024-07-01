@@ -33,6 +33,7 @@
     
 <h2>💻 Python Projects:</h2>
 
+  - [Student Expense Tracking App](https://github.com/merdan10-tech/student_expense_tracking_app/tree/main)
   - [Medieval Inn Food Calculator](https://github.com/merdan10-tech/MedievalInnFoodCalculator_Project/blob/main/README.md)
   - [Story Time](https://github.com/merdan10-tech/StoryTime_Project/blob/main/README.md)
   - [CSV Data Processor](https://github.com/merdan10-tech/CSVDataProcessor_Project)
