@@ -1,5 +1,10 @@
 <h1>Hi, I'm Merdan! </h1>
 
+<h2>👨‍💼 Data Analytics Projects:</h2>
+
+  - [COVID-19 Data Analyzation and Processing Project](#)
+  
+
 <h2>👨‍💼 Software Engineering Projects:</h2>
 
   - [CSV/JSON Data Conversion Project](https://github.com/merdan10-tech/cs310-project1-sp24)
