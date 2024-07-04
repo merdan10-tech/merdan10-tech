@@ -2,6 +2,7 @@
 
 <h2>👨‍💼 Data Analytics Projects:</h2>
 
+  - [Housing in Mexico Data Analyzation Project](https://github.com/merdan10-tech/mex-proj-data-analysis)
   - [COVID-19 Data Analyzation and Processing Project](https://github.com/merdan10-tech/covid-19_data-analization/tree/main)
   
 
