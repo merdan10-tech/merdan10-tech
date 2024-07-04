@@ -1,5 +1,8 @@
 <h1>Hi, I'm Merdan! </h1>
 
+<h2>🧑🏻‍💻 Tableau Projects:</h2>
+  - [COVID-19 Data Visualization Project](https://public.tableau.com/app/profile/merdan.garlyyev/viz/CovidDashboardJan2020-April2021/Dashboard1)
+
 <h2>👨‍💼 Data Analytics Projects:</h2>
 
   - [Housing in Mexico Data Analyzation Project](https://github.com/merdan10-tech/mex-proj-data-analysis)
