@@ -3,6 +3,7 @@
 <h2>👨‍💻 Tableau Projects:</h2>
 
   - [COVID-19 Data Visualization Project](https://public.tableau.com/app/profile/merdan.garlyyev/viz/CovidDashboardJan2020-April2021/Dashboard1)
+  - [Goldman Sachs Stock Performance Dashboard(https://public.tableau.com/app/profile/merdan.garlyyev/viz/GoldmanSachs_StockPricesAnalysis051999-032022/Dashboard1)
 
 <h2>👨‍💼 Data Analytics Projects:</h2>
 
