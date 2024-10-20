@@ -9,6 +9,7 @@
   - [Nashville Housing Data Cleaning Project In SQL](https://github.com/merdan10-tech/NashvilleHousing_SQLDataCleaning/blob/main/HousingInNashville_Portfolio_Project2.sql)
   - [Housing in Mexico Data Analyzation Project](https://github.com/merdan10-tech/mex-proj-data-analysis)
   - [COVID-19 Data Analyzation and Processing Project](https://github.com/merdan10-tech/covid-19_data-analization/tree/main)
+  - [Goldman Sachs Stock Prices Analysis](https://github.com/merdan10-tech/Goldman_Sachs_Stock_Prices/blob/main/GoldmanSachs_StockPrices.sql)
   
 
 <h2>👨‍💼 Software Engineering Projects:</h2>
